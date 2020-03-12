@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584034251 source:c:\users\arthur passos\documents\tadaluno\main.c
+	<stdio.h>
+	"cofo.h"
+
+1584034294 c:\users\arthur passos\documents\tadaluno\cofo.h
+
+1584034948 source:c:\users\arthur passos\documents\tadaluno\cofo.c
+	<stdio.h>
+	<stdlib.h>
+	"cofo.h"
+
